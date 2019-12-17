@@ -1,0 +1,2 @@
+{"level":"info","message":"{\"url\":\"/\",\"body\":{},\"query\":{},\"method\":\"GET\",\"hostname\":\"localhost\",\"ip\":\"::1\"}","timestamp":"2018-10-23T13:09:16.305Z"}
+{"level":"info","message":"{\"url\":\"/favicon.ico\",\"body\":{},\"query\":{},\"method\":\"GET\",\"hostname\":\"localhost\",\"ip\":\"::1\"}","timestamp":"2018-10-23T13:09:16.329Z"}

@@ -1,0 +1,409 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "E:\\xampp\\htdocs\\node-setup\\server\\logs/.audit.json",
+    "files": [
+        {
+            "date": 1540273843746,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-23.log",
+            "hash": "e362445c586849242df277253560a420"
+        },
+        {
+            "date": 1540300015833,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-23.log",
+            "hash": "19210cc94a422178db01502e494400a7"
+        },
+        {
+            "date": 1540300342089,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-23.log",
+            "hash": "26d7c644e9000708a4e492956d6740cb"
+        },
+        {
+            "date": 1540363539358,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "5ff72e3766a23478ebc41841105f9436"
+        },
+        {
+            "date": 1540363718114,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "11bfed6f325e49ceaec8c15e54b32014"
+        },
+        {
+            "date": 1540363832507,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "c9442e982d1c5255efe61b4329608f86"
+        },
+        {
+            "date": 1540364370062,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "c68d125ac857300d344c8f2c88b4aaad"
+        },
+        {
+            "date": 1540364524074,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "02fe29c821dd005263226e64c1f5b3ba"
+        },
+        {
+            "date": 1540364575148,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "33f685dd45f8af0ae4ed626790f3b4d0"
+        },
+        {
+            "date": 1540364635405,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "d1ef1458cda94bb5d10fbb7793f438e3"
+        },
+        {
+            "date": 1540364838777,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "68400380931a4aceed6cbc8d576a247d"
+        },
+        {
+            "date": 1540364956027,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "2e37f31e758d2589a038e944a83cdac8"
+        },
+        {
+            "date": 1540364964328,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "e5b08a6b1c8b530274a289eb1bbd8bdc"
+        },
+        {
+            "date": 1540364981805,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "707759e8809b846b4ed5590e4d4b57b0"
+        },
+        {
+            "date": 1540365032777,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "eb8f39e063234d8aebf509045b912a6b"
+        },
+        {
+            "date": 1540365080353,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "23d5f9b1978b7be31fe0c17acfc48a00"
+        },
+        {
+            "date": 1540366536136,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "3420741c8351b9bfc23fe2995ee2e5cc"
+        },
+        {
+            "date": 1540366551245,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "58a2755a5ddc65b0c966120a83d52acc"
+        },
+        {
+            "date": 1540366611541,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "bad05836d8b08cb080a5a06ff7e6e706"
+        },
+        {
+            "date": 1540366627526,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "d71c9af73d4e55a73db33b8902732fd5"
+        },
+        {
+            "date": 1540366638474,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "12b8ccbef4ec43f0d5820ef55a67889b"
+        },
+        {
+            "date": 1540366671481,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "05a5aadad11c3f4c395bf4418b1bbc40"
+        },
+        {
+            "date": 1540366717113,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "b5e4d34b9dfb7b20cd7904c9e3a03943"
+        },
+        {
+            "date": 1540366749974,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "883c60aabc857c1457466525dade5c30"
+        },
+        {
+            "date": 1540366756439,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "6506368609320d30be1b7b34ae545fe6"
+        },
+        {
+            "date": 1540366830577,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "9dd9ee1bb5d312b33da72ace26c5f0c2"
+        },
+        {
+            "date": 1540366848070,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "b2b1211e142962b5cac15bf327f155b4"
+        },
+        {
+            "date": 1540366929921,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "26bf1bd83457c8f77cd2b1b8bbdf2483"
+        },
+        {
+            "date": 1540366951791,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "13fc4b52d38e1fd4252cc91094bf1ad7"
+        },
+        {
+            "date": 1540367019997,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "fc2ca870b7e8ba6abb2ef91596db5b80"
+        },
+        {
+            "date": 1540367078818,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "f5ed99249eaacb61a94bee46e4a42990"
+        },
+        {
+            "date": 1540367095348,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "8558de14943233a09891b8fe1c4bbca0"
+        },
+        {
+            "date": 1540367378213,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "d60a605da096825165b55716d273e444"
+        },
+        {
+            "date": 1540367403904,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "f7afed594188d3006084d2fc300c84c7"
+        },
+        {
+            "date": 1540367558922,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "29c8274ad7f701f71cc5a3de87b051c0"
+        },
+        {
+            "date": 1540367572259,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "7714ba0ff6cd8825190ee8a9aee8ab6a"
+        },
+        {
+            "date": 1540367703321,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "5a72a30237c47864f3190badbf065d7a"
+        },
+        {
+            "date": 1540367776952,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "78e409047a75aeb0ec7a8a1433ac4546"
+        },
+        {
+            "date": 1540367819920,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "116465dec320e631eb1f80113a291f72"
+        },
+        {
+            "date": 1540367971763,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "8af6437aed34d229fe1e6cd7e84f109c"
+        },
+        {
+            "date": 1540368242684,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "1465a3dc6d8123bf1e9aae8f23c210f0"
+        },
+        {
+            "date": 1540368268366,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "9876b02edde9858720b5e1283a1cf869"
+        },
+        {
+            "date": 1540368304854,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "9e1c760940ce2389d1e9b5b12eb1d543"
+        },
+        {
+            "date": 1540368317313,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "b1a11e68e1f33414f4c42efbce35fa5a"
+        },
+        {
+            "date": 1540368353469,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "28959745d63af3ad759f433fdb9f0bed"
+        },
+        {
+            "date": 1540368405357,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "37d36dd764b8136cc775b54b9d290179"
+        },
+        {
+            "date": 1540368422140,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "3b2fd975969fd0e1620fad48c9882cbc"
+        },
+        {
+            "date": 1540368429524,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "3446d090675651ef0c6961c2b40a4cbf"
+        },
+        {
+            "date": 1540368477522,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "f0ed9fb0167a610b0e670ae92f5da5ed"
+        },
+        {
+            "date": 1540368486676,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "742f1a25b08967d19ae6fb65b1795d52"
+        },
+        {
+            "date": 1540368515758,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "aec4aa42be8e3698570a4a56999222a6"
+        },
+        {
+            "date": 1540368588752,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "5aab43925f2d094e41c901431ef2f577"
+        },
+        {
+            "date": 1540368625777,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "4955c5e2eaea1a14f9492e81acd8b380"
+        },
+        {
+            "date": 1540369258329,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "2a2c77c4b1d9b3485a154a498d2ae363"
+        },
+        {
+            "date": 1540369336126,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "72a395981409a7536f5529d31d2afc19"
+        },
+        {
+            "date": 1540370567145,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "55d1a3f4586aebf782fcd23c4aec476f"
+        },
+        {
+            "date": 1540370591983,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "22210d002acfb8aa4f028175b4a019ea"
+        },
+        {
+            "date": 1540370613655,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "777a76d8f13b0468fa77518977635cf6"
+        },
+        {
+            "date": 1540371578699,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "e1585c0e4d1d16083a68d64df52bd1f6"
+        },
+        {
+            "date": 1540371692527,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "ce633bc801fa0fceb3f0c9693bc5b765"
+        },
+        {
+            "date": 1540379947590,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "d1fc871371582815573b944c5dbdb8dc"
+        },
+        {
+            "date": 1540379955264,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "13ed4531d0dbc59c7b36a09b9d991a22"
+        },
+        {
+            "date": 1540380140287,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "f4efa9ace3bce876b5e32bdab01ccdea"
+        },
+        {
+            "date": 1540380224415,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "e98dc4171e0e5f37a540a72f37a0a54c"
+        },
+        {
+            "date": 1540380290220,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "08ada42dd35abde39e359f5cd393874f"
+        },
+        {
+            "date": 1540380409413,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "25fed8cb9d078d1767d99d80c4c43ddf"
+        },
+        {
+            "date": 1540380414999,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "be11c412dad3a863662460bf05c9c54c"
+        },
+        {
+            "date": 1540380496738,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "2cddbb23d1a593f6abc259e228d4911b"
+        },
+        {
+            "date": 1540380525008,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "f99bb155188447994615e2669d0d1853"
+        },
+        {
+            "date": 1540380643474,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "ceaef4cd61a988c7aa727653fb751fb6"
+        },
+        {
+            "date": 1540380875385,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "727d617942491e37911691efa88b2958"
+        },
+        {
+            "date": 1540380884326,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "7ae920d45af5658eca39ad0c3dcaf890"
+        },
+        {
+            "date": 1540381038219,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "a7da0760a30be2b3767fa80925fd37d3"
+        },
+        {
+            "date": 1540381195186,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "0e1c31a29c3b9e08f1253c3d44b39c3a"
+        },
+        {
+            "date": 1540381237693,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "2ee3fb5ba62c9523451f3d9c7d81ddac"
+        },
+        {
+            "date": 1540381249424,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "199d97c3183fe702f611816ce8fffb49"
+        },
+        {
+            "date": 1540381346203,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "b0bb0da8a33c378c31b45f65b1176263"
+        },
+        {
+            "date": 1540383143839,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "7bb3bd480efc274907ffaf09bf24be26"
+        },
+        {
+            "date": 1540385255294,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "3f0e3e10792c8924c1782220e2c87f62"
+        },
+        {
+            "date": 1540386532707,
+            "name": "E:\\xampp\\htdocs\\node-setup\\server\\logs\\api-info-2018-10-24.log",
+            "hash": "d1350f59c717f5a710a3350e54ef59b5"
+        }
+    ]
+}

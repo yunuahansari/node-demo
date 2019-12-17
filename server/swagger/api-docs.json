@@ -1,0 +1,215 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Elcaro",
+        "description": "Elcaro",
+        "version": "1.0.0"
+    },
+    "host": "localhost:3600",
+    "basePath": "/api",
+    "schemes": [
+        "http"
+    ],
+    "tags": [{
+            "name": "Auth",
+            "description": "Operations about Auth"
+        } 
+    ],
+    "paths": {
+        "/auth/login": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "description": "User login into application.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "parameters": [{
+                    "in": "body",
+                    "name": "body",
+                    "description": "Login",
+                    "type": "body",
+                    "required": true,
+                    "schema": {
+                        "properties": {
+                            "email": {
+                                "type": "string"
+                            },
+                            "password": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }],
+                "responses": {
+                    "200": {
+                        "description": "User object.",
+                        "schema": {
+                            "type": "object"
+                        }
+                    }
+                }
+            }
+        },
+        "/auth/logout": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "description": "User logout into application.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "parameters": [{
+                    "in": "header",
+                    "name": "access_token",
+                    "type": "string",
+                    "description": "Access token",
+                    "required": true
+
+                }],
+                "responses": {
+                    "200": {
+                        "description": "User object.",
+                        "schema": {
+                            "type": "object"
+                        }
+                    }
+                }
+            }
+        },
+        "/auth/change-password": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "description": "User change password.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "parameters": [{
+                        "in": "header",
+                        "name": "access_token",
+                        "type": "string",
+                        "description": "Access token",
+                        "required": true
+
+                    },
+                    {
+                        "in": "body",
+                        "name": "body",
+                        "description": "Change Password",
+                        "type": "body",
+                        "required": true,
+                        "schema": {
+                            "properties": {
+                                "current_password": {
+                                    "type": "string"
+                                },
+                                "new_password": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Message.",
+                        "schema": {
+                            "type": "object"
+                        }
+                    }
+                }
+            }
+        },
+        "/auth/forgot-password": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "description": "User forgot password.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "parameters": [{
+                    "in": "body",
+                    "name": "body",
+                    "description": "Forgot Password",
+                    "type": "body",
+                    "required": true,
+                    "schema": {
+                        "properties": {
+                            "email": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }],
+                "responses": {
+                    "200": {
+                        "description": "Message.",
+                        "schema": {
+                            "type": "object"
+                        }
+                    }
+                }
+            }
+        },
+        "/auth/reset-password": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "description": "User reset password.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "parameters": [{
+                    "in": "body",
+                    "name": "body",
+                    "description": "Reset Password",
+                    "type": "body",
+                    "required": true,
+                    "schema": {
+                        "properties": {
+                            "token": {
+                                "type": "string"
+                            },
+                            "password": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }],
+                "responses": {
+                    "200": {
+                        "description": "Message.",
+                        "schema": {
+                            "type": "object"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+
+    }
+}

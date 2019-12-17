@@ -1,0 +1,6 @@
+{"level":"error","message":"Database connection error SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:3306","timestamp":"2018-10-23T05:50:44.940Z"}
+{"level":"error","message":"Database connection error SequelizeConnectionError: ER_BAD_DB_ERROR: Unknown database 'test_db'","timestamp":"2018-10-23T13:06:56.826Z"}
+{"level":"error","message":"Database connection error SequelizeConnectionError: ER_BAD_DB_ERROR: Unknown database 'test_db'","timestamp":"2018-10-23T13:12:22.227Z"}
+{"level":"error","message":"Database connection error SequelizeConnectionError: ER_BAD_DB_ERROR: Unknown database 'test_db'","timestamp":"2018-10-24T06:45:39.928Z"}
+{"level":"error","message":"Database connection error SequelizeConnectionError: ER_BAD_DB_ERROR: Unknown database 'test_db'","timestamp":"2018-10-24T06:48:38.261Z"}
+{"level":"error","message":"Database connection error SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:3306","timestamp":"2019-12-17T16:24:46.607Z"}

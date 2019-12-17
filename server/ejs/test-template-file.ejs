@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Riders</title>
+</head>
+<body>
+  <table style="font-family: Arial, Helvetica, sans-serif;font-size: 9px;" cellspacing="0" cellpadding="0">
+    <thead>
+      <tr>
+        <th width="80" style="font-size: 8px;border-bottom:1px solid #e4e7ea;padding:10px 3px;">RIDER ID</th>
+        <th width="160" style="font-size: 8px;border-bottom:1px solid #e4e7ea;padding:10px 3px;">FULL NAME</th>
+        <th width="220" style="font-size: 8px;border-bottom:1px solid #e4e7ea;padding:10px 3px;">EMAIL</th>
+        <th width="100" style="font-size: 8px;border-bottom:1px solid #e4e7ea;padding:10px 3px;">MOBILE NUMBER</th>
+        <th width="100" style="font-size: 8px;border-bottom:1px solid #e4e7ea;padding:10px 3px;">DATE REGISTERED</th>
+        <th width="80" style="font-size: 8px;border-bottom:1px solid #e4e7ea;padding:10px 3px;">TOTAL REFERRALS</th>
+        <th width="80" style="font-size: 8px;border-bottom:1px solid #e4e7ea;padding:10px 3px;">TOTAL RIDES</th>
+        <th width="9" style="font-size: 8px;border-bottom:1px solid #e4e7ea;padding:10px 3px;">STATUS</th>
+      </tr>  
+    </thead>
+
+    <tbody>
+      <% for(var i=0; i < data.length; i++) { %>
+      <tr>
+        <td align="center" style="padding:15px 3px;border-bottom:1px solid #e4e7ea;">
+          <%= data[i].customer_id %>            
+        </td>
+        <td align="center" style="padding:15px 3px;border-bottom:1px solid #e4e7ea;">
+          <%= data[i].full_name %>   
+        </td>
+        <td align="center" style="padding:15px 3px;border-bottom:1px solid #e4e7ea;"> 
+          <%= data[i].email %>
+        </td>
+        <td align="center" style="padding:15px 3px;border-bottom:1px solid #e4e7ea;">
+          <%= data[i].phone_number %>
+        </td>
+        <td align="center" style="padding:15px 3px;border-bottom:1px solid #e4e7ea;">
+          <%= data[i].registered_date %>
+        </td>
+        <td align="center" style="padding:15px 3px;border-bottom:1px solid #e4e7ea;">
+          <%= data[i].total_referrals %>
+        </td>
+        <td align="center" style="padding:15px 3px;border-bottom:1px solid #e4e7ea;">
+          <%= data[i].total_rides %>
+        </td>  
+  
+        <% if(data[i].status=='active'){ %>
+           <td align="center" style="color:#53ae79;padding:8px 3px;border-bottom:1px solid #e4e7ea;">  
+            <%= data[i].status %> 
+          </td>
+
+        <% }else{ %>
+
+           <td align="center" style="color:#ec3e21;padding:8px 3px;border-bottom:1px solid #e4e7ea;">  
+            <%= data[i].status %> 
+           </td>
+           
+        <% } %>
+      </tr>
+      <% } %>
+     
+    </tbody>
+  </table>
+</body>
+</html>
